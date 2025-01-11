@@ -36,7 +36,7 @@ Automate the process of following users on Twitter/X's "For You" tab with this l
 ## Development Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/twitter-follow-automation.git
+   git clone https://github.com/Avinash01110/Twitter-Follow-Automation-Chrome-Extension.git
 # Twitter Follow Automation Chrome Extension
 
 Automate the process of following users on Twitter/X's "For You" tab with this lightweight and easy-to-use Chrome extension. 
