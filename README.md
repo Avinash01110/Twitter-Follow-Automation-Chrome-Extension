@@ -1,6 +1,11 @@
 # Twitter Follow Automation Chrome Extension
 
-Automate the process of following users on Twitter/X's "For You" tab with this lightweight and easy-to-use Chrome extension. 
+Automate the process of following users on Twitter/X's "For You" tab with this lightweight and easy-to-use Chrome extension.
+
+![image](https://github.com/user-attachments/assets/b42749ce-020a-4391-b9e8-52945dbf83f0)
+![image](https://github.com/user-attachments/assets/4316e012-00f1-4135-bcf4-7bc564d15318)
+
+
 
 ## Features
 - Automatically switches to the "For You" tab when required.
