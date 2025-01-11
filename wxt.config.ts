@@ -6,7 +6,7 @@ export default defineConfig({
   modules: ["@wxt-dev/module-react"],
   manifest: {
     name: "Twitter Follow Automation",
-    version: "1.0",
+    version: "1.0.1",
     description: "Automatically follow users on Twitter/X’s For You tab.",
     permissions: ["tabs", "scripting", "activeTab"],
     background: {
